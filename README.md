@@ -1,2 +1,2 @@
 # ocGit
-TP OC Git
+TP OC Git et GitHub
